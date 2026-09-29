@@ -1,0 +1,48 @@
+<div class="page-shell">
+  <a class="skip-link" href="#main-content">
+    {{ language() === 'vi' ? 'Đi đến nội dung chính' : 'Skip to main content' }}
+  </a>
+
+  <app-site-header [language]="language()" (languageChange)="setLanguage($event)" />
+
+  <main id="main-content">
+    @if (dataState() === 'loading') {
+      <section class="status-screen" aria-live="polite">
+        <div class="loader-disc" aria-hidden="true"></div>
+        <p>{{ language() === 'vi' ? 'Đang tải đường bay...' : 'Loading the flight plan...' }}</p>
+      </section>
+    }
+
+    @if (dataState() === 'error') {
+      <section class="status-screen status-error" role="alert">
+        <span class="status-icon" aria-hidden="true">!</span>
+        <h1>{{ language() === 'vi' ? 'Có chút nhiễu đường bay' : 'A little turbulence' }}</h1>
+        <p>{{ dataError() }}</p>
+      </section>
+    }
+
+    @if (data(); as team) {
+      <app-hero [site]="team.site" [language]="language()" />
+      <div class="sample-strip" aria-label="Content status">
+        <div class="container sample-strip-inner">
+          <span class="sample-dot" aria-hidden="true"></span>
+          <span>{{ team.site.sampleNotice[language()] }}</span>
+          <span class="sample-strip-rule" aria-hidden="true"></span>
+          <span>{{
+            language() === 'vi' ? 'Cập nhật qua dữ liệu đội' : 'Maintained in team data'
+          }}</span>
+        </div>
+      </div>
+
+      <app-about [site]="team.site" [language]="language()" />
+      <app-jersey-gallery [language]="language()" />
+      <app-schedule [items]="team.schedule" [language]="language()" />
+      <app-roster [members]="team.roster" [language]="language()" />
+      <app-results [results]="team.results" [language]="language()" />
+      <app-upcoming-event [content]="team.upcomingEvent" [language]="language()" />
+      <app-recent-events [events]="team.events" [language]="language()" />
+      <app-recruitment [content]="team.recruitment" [language]="language()" />
+      <app-site-footer [site]="team.site" [contact]="team.contact" [language]="language()" />
+    }
+  </main>
+</div>

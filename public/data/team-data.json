@@ -1,0 +1,536 @@
+{
+  "site": {
+    "name": "CanTho Entixie Ultimate",
+    "shortName": "CEU",
+    "location": {
+      "vi": "Cần Thơ, Việt Nam",
+      "en": "Can Tho, Vietnam"
+    },
+    "eyebrow": {
+      "vi": "Ultimate Frisbee tại Cần Thơ",
+      "en": "Ultimate Frisbee in Can Tho"
+    },
+    "title": {
+      "vi": "Ném dĩa. Kết nối. Bứt phá.",
+      "en": "Throw together. Fly further."
+    },
+    "description": {
+      "vi": "Gây dựng tình thân, rèn luyện thể chất, lan tỏa tinh thần thể thao Cơ Đốc",
+      "en": "Building camaraderie, physical training, spreading the spirit of Christian sports"
+    },
+    "introduction": [
+      {
+        "vi": "CANTHO ENTIXIE ULTIMATE CLUB (CEU)",
+        "en": "CANTHO ENTIXIE ULTIMATE CLUB (CEU)"
+      },
+      {
+        "vi": "CanTho Entixie Ultimate Club (CEU) là câu lạc bộ thể thao Cơ Đốc thuộc Entixie Ultimate Club (EUC) và Nhóm Thông Công Sinh Viên Tin Lành Cần Thơ (NTC Cần Thơ). Đây là một cộng đồng, chủ yếu là sinh viên Cơ Đốc, thích chơi thể thao - đặc biệt là môn ném dĩa (Ultimate Frisbee).",
+        "en": "CanTho Entixie Ultimate Club (CEU) is a Christian sports club under Entixie Ultimate Club (EUC) and the Can Tho Protestant Student Fellowship (NTC Can Tho). It is a community, primarily made up of Christian students, who enjoy sports - especially Ultimate Frisbee."
+      },
+      {
+        "vi": "CEU được thành lập ngày 19/3/2021 tại Cần Thơ với tên Frisbee NTC Cần Thơ, sau này đổi tên thành CanTho Entixie Ultimate (2023).",
+        "en": "CEU was founded on March 19, 2021, in Can Tho under the name Frisbee NTC Can Tho, and was later renamed CanTho Entixie Ultimate in 2023."
+      },
+      {
+        "vi": "Hàng tuần, CEU thu hút khoảng 10-20 bạn đến sân tham gia tập luyện và vui chơi. Trong đó, có 3 bạn thân hữu thường xuyên gắn bó.",
+        "en": "Every week, CEU welcomes around 10-20 people to the field to train and have fun. Among them, three friends regularly stay connected with the club."
+      }
+    ],
+    "sampleNotice": {
+      "vi": "Nội dung mẫu - sẽ được thay bằng thông tin chính thức của đội.",
+      "en": "Sample content - replace with the team's official information before launch."
+    },
+    "stats": [
+      {
+        "value": "06",
+        "label": {
+          "vi": "năm cùng bay",
+          "en": "years in flight"
+        }
+      },
+      {
+        "value": "24+",
+        "label": {
+          "vi": "đồng đội",
+          "en": "teammates"
+        }
+      },
+      {
+        "value": "01",
+        "label": {
+          "vi": "tinh thần",
+          "en": "shared spirit"
+        }
+      }
+    ],
+    "values": [
+      {
+        "icon": "✦",
+        "title": {
+          "vi": "Gây dựng tình thân",
+          "en": "Building camaraderie"
+        },
+        "description": {
+          "vi": "Sứ mạng đầu tiên của CLB CEU là gây dựng tình thân, sự đoàn kết của những thành viên thông qua quá trình luyện tập và thi đấu bộ môn Ultimate Frisbee.",
+          "en": "CEU's first mission is to build camaraderie and unity among its members through training and competition in Ultimate Frisbee."
+        }
+      },
+      {
+        "icon": "↗",
+        "title": {
+          "vi": "Rèn luyện thể chất",
+          "en": "Physical training"
+        },
+        "description": {
+          "vi": "Một CLB thể thao thì không thể thiếu mục tiêu rèn luyện thể chất. Tụi mình sẽ giúp các thành viên được vận động, xả stress sau một tuần học tập và làm việc.",
+          "en": "A sports club cannot be without the goal of physical training. We help members stay active and relieve stress after a week of study and work."
+        }
+      },
+      {
+        "icon": "◌",
+        "title": {
+          "vi": "Lan tỏa tinh thần thể thao Cơ Đốc",
+          "en": "Spreading the spirit of Christian sports"
+        },
+        "description": {
+          "vi": "Tụi mình muốn lan toả tinh thần thể thao Cơ Đốc yêu thương, giúp đỡ và gắn kết với nhau thông qua CLB",
+          "en": "We want to spread a loving Christian sports spirit that helps and connects people through the club."
+        }
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "id": "training-friday",
+      "date": "2026-09-11",
+      "dateLabel": {
+        "vi": "Thứ 6 hàng tuần",
+        "en": "Every Friday"
+      },
+      "time": "20:00 - 21:30",
+      "kind": "practice",
+      "title": {
+        "vi": "Training",
+        "en": "Training"
+      },
+      "location": {
+        "vi": "Sân bóng đá Huỳnh Châu",
+        "en": "Huynh Chau Football Field"
+      },
+      "address": {
+        "vi": "32a Đ. Hồ Bún Xáng, Tân An, Cần Thơ",
+        "en": "32A Ho Bun Xang Street, Tan An, Can Tho"
+      },
+      "mapUrl": "https://maps.app.goo.gl/GjS159qRRSpHDapW7",
+      "note": {
+        "vi": "20:00 - 21:30, thứ 6 hàng tuần.",
+        "en": "20:00 - 21:30, every Friday."
+      }
+    },
+    {
+      "id": "pickup-last-friday",
+      "date": "2026-09-25",
+      "dateLabel": {
+        "vi": "Thứ 6 cuối tháng",
+        "en": "Last Friday of the month"
+      },
+      "time": "20:00 - 21:30",
+      "kind": "pickup",
+      "title": {
+        "vi": "Pick-up",
+        "en": "Pick-up"
+      },
+      "location": {
+        "vi": "Sân bóng Đại học Cần Thơ",
+        "en": "Can Tho University Football Field"
+      },
+      "address": {
+        "vi": "Khu II, Đ. 3 Tháng 2, Ninh Kiều, Cần Thơ",
+        "en": "Area II, 3/2 Street, Ninh Kieu, Can Tho"
+      },
+      "mapUrl": "https://maps.app.goo.gl/EsbznVXtJ93c9rph7",
+      "note": {
+        "vi": "20:00 - 21:30, thứ 6 cuối tháng.",
+        "en": "20:00 - 21:30, the last Friday of each month."
+      }
+    }
+  ],
+  "roster": [
+    {
+      "id": "mai",
+      "name": "Mai Anh",
+      "number": "07",
+      "role": {
+        "vi": "Handler",
+        "en": "Handler"
+      },
+      "bio": {
+        "vi": "Giữ nhịp tấn công và luôn nhìn thấy đường chuyền tiếp theo.",
+        "en": "Sets the attacking rhythm and always sees the next pass."
+      },
+      "initials": "MA",
+      "accent": "orange"
+    },
+    {
+      "id": "khoa",
+      "name": "Minh Khoa",
+      "number": "12",
+      "role": {
+        "vi": "Cutter",
+        "en": "Cutter"
+      },
+      "bio": {
+        "vi": "Tốc độ, khoảng trống và những pha cắt vào đúng thời điểm.",
+        "en": "Speed, space, and cuts that arrive exactly on time."
+      },
+      "initials": "MK",
+      "accent": "blue"
+    },
+    {
+      "id": "linh",
+      "name": "Thảo Linh",
+      "number": "18",
+      "role": {
+        "vi": "Captain",
+        "en": "Captain"
+      },
+      "bio": {
+        "vi": "Kết nối mọi người trên sân bằng năng lượng tích cực.",
+        "en": "Connects the team on the field with contagious energy."
+      },
+      "initials": "TL",
+      "accent": "yellow"
+    },
+    {
+      "id": "phuc",
+      "name": "Phúc Nguyễn",
+      "number": "23",
+      "role": {
+        "vi": "Defender",
+        "en": "Defender"
+      },
+      "bio": {
+        "vi": "Đọc trận đấu, gây áp lực và biến phòng thủ thành phản công.",
+        "en": "Reads the game, applies pressure, and turns defense into attack."
+      },
+      "initials": "PN",
+      "accent": "green"
+    },
+    {
+      "id": "vy",
+      "name": "Khánh Vy",
+      "number": "31",
+      "role": {
+        "vi": "Cutter",
+        "en": "Cutter"
+      },
+      "bio": {
+        "vi": "Luôn sẵn sàng chạy thêm một bước cho đồng đội.",
+        "en": "Always ready to take one more step for the team."
+      },
+      "initials": "KV",
+      "accent": "orange"
+    },
+    {
+      "id": "nam",
+      "name": "Hoàng Nam",
+      "number": "44",
+      "role": {
+        "vi": "Handler",
+        "en": "Handler"
+      },
+      "bio": {
+        "vi": "Bình tĩnh dưới áp lực và thích những đường ném dài.",
+        "en": "Calm under pressure and always looking for the long throw."
+      },
+      "initials": "HN",
+      "accent": "blue"
+    }
+  ],
+  "results": [
+    {
+      "id": "result-01",
+      "date": "2026-08-30",
+      "dateLabel": {
+        "vi": "30 tháng 8, 2026",
+        "en": "August 30, 2026"
+      },
+      "opponent": "Saigon Heat",
+      "competition": {
+        "vi": "Giải giao hữu mùa hè",
+        "en": "Summer friendly"
+      },
+      "teamScore": 13,
+      "opponentScore": 9,
+      "outcome": "win",
+      "highlight": {
+        "vi": "Giữ tinh thần ổn định trong hiệp cuối.",
+        "en": "Stayed composed through the final point."
+      }
+    },
+    {
+      "id": "result-02",
+      "date": "2026-08-16",
+      "dateLabel": {
+        "vi": "16 tháng 8, 2026",
+        "en": "August 16, 2026"
+      },
+      "opponent": "Hanoi Wind",
+      "competition": {
+        "vi": "Vietnam Ultimate Open",
+        "en": "Vietnam Ultimate Open"
+      },
+      "teamScore": 8,
+      "opponentScore": 11,
+      "outcome": "loss",
+      "highlight": {
+        "vi": "Một trận đấu nhanh để học hỏi và trở lại mạnh hơn.",
+        "en": "A fast game to learn from and come back stronger."
+      }
+    },
+    {
+      "id": "result-03",
+      "date": "2026-07-26",
+      "dateLabel": {
+        "vi": "26 tháng 7, 2026",
+        "en": "July 26, 2026"
+      },
+      "opponent": "Mekong Flyers",
+      "competition": {
+        "vi": "Giao hữu khu vực",
+        "en": "Regional friendly"
+      },
+      "teamScore": 10,
+      "opponentScore": 10,
+      "outcome": "draw",
+      "highlight": {
+        "vi": "Một ngày đẹp trời và một trận đấu cân bằng.",
+        "en": "A bright day and a beautifully even game."
+      }
+    }
+  ],
+  "upcomingEvent": {
+    "eyebrow": {
+      "vi": "06 / Sắp diễn ra",
+      "en": "06 / Coming up"
+    },
+    "title": {
+      "vi": "Cúp CEU tháng 11 tại Cần Thơ",
+      "en": "CEU Cup this November in Can Tho"
+    },
+    "description": {
+      "vi": "CEU đang chuẩn bị tổ chức một giải cup trong 1 ngày tại Cần Thơ vào tháng 11/2026. Ngày thi đấu, sân thi đấu và thông tin đăng ký sẽ được cập nhật khi đội chốt lịch chính thức.",
+      "en": "CEU is preparing to host a one-day cup tournament in Can Tho in November 2026. The final match date, venue, and registration details will be added once the team confirms the schedule."
+    },
+    "host": "CEU",
+    "format": {
+      "vi": "Giải cup 1 ngày do CEU tổ chức",
+      "en": "A one-day cup tournament hosted by CEU"
+    },
+    "dateLabel": {
+      "vi": "Tháng 11/2026 · sẽ cập nhật ngày cụ thể",
+      "en": "November 2026 · exact date to be confirmed"
+    },
+    "location": {
+      "vi": "Cần Thơ, Việt Nam",
+      "en": "Can Tho, Vietnam"
+    }
+  },
+  "events": [
+    {
+      "id": "thuduc-friendly-2024",
+      "date": "2024-02-24",
+      "dateLabel": {
+        "vi": "24/02/2024",
+        "en": "February 24, 2024"
+      },
+      "title": {
+        "vi": "GIAO HỮU VỚI CLB THỦ ĐỨC ENTIXIE ULTIMATE",
+        "en": "FRIENDLY MATCH WITH THU DUC ENTIXIE ULTIMATE"
+      },
+      "opponent": "Thủ Đức Entixie Ultimate",
+      "opponentLogo": "ceu-img/events/thuduc-logo.png",
+      "images": [
+        {
+          "src": "ceu-img/events/thuduc-match-01.png",
+          "alt": {
+            "vi": "Đội hình CEU và Thủ Đức Entixie Ultimate sau trận giao hữu",
+            "en": "CEU and Thu Duc Entixie Ultimate teams after the friendly match"
+          }
+        },
+        {
+          "src": "ceu-img/events/thuduc-match-02.png",
+          "alt": {
+            "vi": "Khoảnh khắc giao hữu giữa CEU và Thủ Đức Entixie Ultimate",
+            "en": "A friendly match moment between CEU and Thu Duc Entixie Ultimate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "southwest-hat-2024",
+      "date": "2024-04-27",
+      "dateLabel": {
+        "vi": "27/04/2024",
+        "en": "April 27, 2024"
+      },
+      "title": {
+        "vi": "GIẢI ULTIMATE FRISBEE SOUTHWEST HAT 2024",
+        "en": "SOUTHWEST HAT ULTIMATE FRISBEE TOURNAMENT 2024"
+      },
+      "eventLogo": "ceu-img/events/southwest-hat-2024-logo.png",
+      "background": "ceu-img/events/southwest-hat-2024-background.png",
+      "images": [
+        {
+          "src": "ceu-img/events/southwest-hat-2024-match.png",
+          "alt": {
+            "vi": "Đội CEU tại giải Ultimate Frisbee Southwest Hat 2024",
+            "en": "The CEU team at the Southwest Hat Ultimate Frisbee Tournament 2024"
+          }
+        }
+      ]
+    },
+    {
+      "id": "loi-choi-run-2026",
+      "date": "2026-07-15",
+      "endDate": "2026-08-09",
+      "dateLabel": {
+        "vi": "15/07/2026",
+        "en": "July 15, 2026"
+      },
+      "endDateLabel": {
+        "vi": "09/08/2026",
+        "en": "August 9, 2026"
+      },
+      "title": {
+        "vi": "LOI CHOI RUN",
+        "en": "LOI CHOI RUN"
+      },
+      "images": [
+        {
+          "src": "ceu-img/events/loi-choi-run-01.png",
+          "fit": "contain",
+          "alt": {
+            "vi": "Ảnh 1 của CEU trong sự kiện chạy trực tuyến LOI CHOI RUN",
+            "en": "Photo 1 of CEU during the LOI CHOI RUN online event"
+          }
+        },
+        {
+          "src": "ceu-img/events/loi-choi-run-02.png",
+          "fit": "contain",
+          "alt": {
+            "vi": "Ảnh 2 của CEU trong sự kiện chạy trực tuyến LOI CHOI RUN",
+            "en": "Photo 2 of CEU during the LOI CHOI RUN online event"
+          }
+        },
+        {
+          "src": "ceu-img/events/loi-choi-run-03.png",
+          "fit": "contain",
+          "alt": {
+            "vi": "Ảnh 3 của CEU trong sự kiện chạy trực tuyến LOI CHOI RUN",
+            "en": "Photo 3 of CEU during the LOI CHOI RUN online event"
+          }
+        },
+        {
+          "src": "ceu-img/events/loi-choi-run-04.png",
+          "fit": "contain",
+          "alt": {
+            "vi": "Ảnh 4 của CEU trong sự kiện chạy trực tuyến LOI CHOI RUN",
+            "en": "Photo 4 of CEU during the LOI CHOI RUN online event"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seacup5-2026",
+      "date": "2026-08-29",
+      "dateLabel": {
+        "vi": "29/08/2026",
+        "en": "August 29, 2026"
+      },
+      "title": {
+        "vi": "THAM GIA SEACUP5",
+        "en": "PARTICIPATING IN SEACUP5"
+      },
+      "host": "NTSEA Ultimate Club",
+      "hostLogo": "ceu-img/events/seacup5-ntsea-logo.png",
+      "eventLogo": "ceu-img/events/seacup5-event-logo.png",
+      "images": [
+        {
+          "src": "ceu-img/events/seacup5-team-photo-01.png",
+          "alt": {
+            "vi": "Đội CEU tham gia SEACUP5 cùng các đội Ultimate",
+            "en": "The CEU team at SEACUP5 with fellow Ultimate teams"
+          }
+        },
+        {
+          "src": "ceu-img/events/seacup5-team-photo-02.jpg",
+          "alt": {
+            "vi": "Đội hình CEU tại SEACUP5",
+            "en": "The CEU squad at SEACUP5"
+          }
+        }
+      ]
+    }
+  ],
+  "recruitment": {
+    "eyebrow": {
+      "vi": "Bạn có muốn bay cùng chúng mình?",
+      "en": "Ready to take flight?"
+    },
+    "title": {
+      "vi": "Một chiếc dĩa. Một đội. Vô hạn câu chuyện.",
+      "en": "One disc. One team. Infinite stories."
+    },
+    "description": {
+      "vi": "Không cần kinh nghiệm. Chỉ cần một đôi giày, tinh thần cởi mở và mong muốn thử điều mới.",
+      "en": "No experience needed. Bring athletic shoes, an open mind, and a willingness to try something new."
+    },
+    "buttonLabel": {
+      "vi": "Nhắn tin cho đội",
+      "en": "Message the team"
+    },
+    "buttonUrl": "https://www.facebook.com/CanThoEntixieUltimate",
+    "details": [
+      {
+        "vi": "Tập 1 buổi mỗi tuần",
+        "en": "One practice each week"
+      },
+      {
+        "vi": "Mở cho mọi trình độ",
+        "en": "All experience levels welcome"
+      },
+      {
+        "vi": "Tinh thần đồng đội là chính",
+        "en": "Team spirit at the center"
+      }
+    ]
+  },
+  "contact": {
+    "email": "canthoentixieultimate.2021@gmail.com",
+    "location": {
+      "vi": "Cần Thơ, Đồng bằng sông Cửu Long",
+      "en": "Can Tho, Mekong Delta"
+    },
+    "socials": [
+      {
+        "label": "Instagram",
+        "shortLabel": "IG",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/cantho_entixie_ultimate"
+      },
+      {
+        "label": "Facebook",
+        "shortLabel": "FB",
+        "icon": "facebook",
+        "url": "https://www.facebook.com/CanThoEntixieUltimate"
+      },
+      {
+        "label": "YouTube",
+        "shortLabel": "YT",
+        "icon": "youtube",
+        "url": "https://www.youtube.com/@CanThoEntixieUltimate"
+      }
+    ]
+  }
+}

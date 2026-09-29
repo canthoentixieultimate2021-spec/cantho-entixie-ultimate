@@ -1,0 +1,28 @@
+<section class="section section-dark jersey-section" id="jersey" aria-labelledby="jersey-title">
+  <div class="container">
+    <div class="section-intro split-intro split-intro-light">
+      <div>
+        <p class="eyebrow eyebrow-light">{{ { vi: '02 / Nhận diện trên sân', en: '02 / Identity on the field' } | localized: language }}</p>
+                <h2 id="jersey-title">{{ { vi: 'Màu áo của CEU', en: 'The CEU kit' } | localized: language }}</h2>
+              </div>
+            </div>
+
+    <div class="jersey-gallery">
+      @for (jersey of jerseyCards; track jersey.id; let index = $index) {
+        <figure class="jersey-card">
+          <div class="jersey-image-wrap">
+            <img
+              [src]="jersey.image"
+              [alt]="jersey.title | localized: language"
+              loading="lazy"
+            />
+            <span class="jersey-card-index">0{{ index + 1 }}</span>
+          </div>
+          <figcaption>
+                      <strong>{{ jersey.title | localized: language }}</strong>
+                    </figcaption>
+        </figure>
+      }
+    </div>
+  </div>
+</section>
