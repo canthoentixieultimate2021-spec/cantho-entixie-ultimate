@@ -36,13 +36,13 @@ jobs:
         run: npm ci
 
       - name: Build Angular application
-        run: npm run build -- --base-href "/CEULandingPage/"
+        run: npm run build -- --base-href "/cantho-entixie-ultimate/"
 
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v4
         with:
-          path: dist/ceu-landing-page/browser
+          path: dist/cantho-entixie-ultimate/browser
 
   deploy:
     if: github.event_name != 'pull_request'
